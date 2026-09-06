@@ -7,5 +7,5 @@
 | 2 | 仓鼠笔记 |[HamsterNotes](https://github.com/Gautown/HamsterNotes)| 一个在静态线笔记软件 |
 | 2 | 仓鼠Skills |[HamsterSkillsWarehouses](https://github.com/Gautown/HamsterSkillsWarehouse)| 一个Skills仓库 |
 
-### 🐘 Elephant Software Series
+### 🐘 Elephant Apps Series
 ## AboutMe
